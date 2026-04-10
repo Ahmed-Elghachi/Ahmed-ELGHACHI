@@ -10,3 +10,5 @@ Hands-on experience with **SOC environments**, working with tools like Wazuh and
 Skilled in **cloud security (AWS)**, network administration, and system hardening.
 Passionate about building secure infrastructures, detecting threats, and improving defensive security strategies.
 ---
+📜 Certifications
+---
