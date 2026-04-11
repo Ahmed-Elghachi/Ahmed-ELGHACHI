@@ -9,7 +9,6 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ---
 # 📜 Certifications
 
-<img src="badges/AWS.png" width="120"/>
-<img src="badges/Ethical_Hacker.png" width="120"/>
+<img src="badges/AWS.png" width="120"/> <img src="badges/Ethical_Hacker.png" width="120"/>
 
 ---
