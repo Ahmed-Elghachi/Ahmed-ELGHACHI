@@ -8,4 +8,9 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 ---
 📜 Certifications
+## 📜 Certifications
+
+![eJPT](https://img.shields.io/badge/eJPT-In%20Progress-yellow?style=for-the-badge&logo=ejpt)
+![RedHat](https://img.shields.io/badge/Red%20Hat-Certified-red?style=for-the-badge&logo=redhat)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-orange?style=for-the-badge&logo=amazonaws)
 ---
