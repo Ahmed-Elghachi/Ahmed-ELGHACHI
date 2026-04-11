@@ -8,14 +8,8 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 ---
 ## 📜 Certifications
-
-## 📜 Certifications
-
 <p align="center">
-  <img src="badges/AWS.png" width="120" style="margin:15px;"/>
-  <img src="badges/cisco.png" width="120" style="margin:15px;"/>
-  <img src="badges/ejpt.png" width="120" style="margin:15px;"/>
-  <img src="badges/redhat1.png" width="150" style="margin:15px;"/>
-  <img src="badges/redhat2.png" width="150" style="margin:15px;"/>
+  <img src="badges/Ethical_Hacker.png" width="130" style="margin:10px; border-radius:10px;"/>
+  <img src="badges/AWS.png" width="130" style="margin:10px; border-radius:10px;"/>
 </p>
 ---
