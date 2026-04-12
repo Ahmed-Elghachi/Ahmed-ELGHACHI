@@ -43,20 +43,23 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 ## ⚒️ Skills
 
+## ⚒️ Skills
+
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
 ![Wazuh](https://img.shields.io/badge/Wazuh-purple?style=for-the-badge)
-![Suricata](https://img.shields.io/badge/Suricata-red?style=for-the-badge)
-![ModSecurity](https://img.shields.io/badge/ModSecurity-green?style=for-the-badge)
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
 ![RedHat](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=redhat)
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)
-
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![IAM](https://img.shields.io/badge/AWS%20IAM-yellow?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker%20Desktop-blue?style=for-the-badge&logo=docker)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-orange?style=for-the-badge&logo=virtualbox)
+![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
