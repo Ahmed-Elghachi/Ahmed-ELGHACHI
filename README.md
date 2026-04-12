@@ -13,7 +13,7 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 <p align="center">
 
   <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">
-    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
+    <img src="https://images.credly.com/size/160x160/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="90"/>
   </a>
   
   <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">
