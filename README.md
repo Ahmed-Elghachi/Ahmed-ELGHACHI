@@ -12,7 +12,15 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">
-    <img src="badges/AWS.png" width="130"/>
+    <img src="badges/AWS.png" width="100"/>
+  </a>
+  
+   <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">
+    <img src="badges/redhatfund.png" width="85"/>
+  </a>
+
+   <a href="https://www.credly.com/earner/earned/badge/0da38a61-7275-4d61-bbac-0f8996f76a12">
+    <img src="badges/redhatadII.png" width="85"/>
   </a>
   
   <a href="https://www.credly.com/earner/earned/badge/91617142-3d20-4ed2-bdef-3ab2d7f51349">
@@ -31,13 +39,6 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
     <img src="badges/CCNAENSA__1_.png" width="85"/>
   </a>
 
-  <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">
-    <img src="badges/redhatfund.png" width="85"/>
-  </a>
-
-  <a href="https://www.credly.com/earner/earned/badge/0da38a61-7275-4d61-bbac-0f8996f76a12">
-    <img src="badges/redhatadII.png" width="85"/>
-  </a>
 </p>
 
 ---
