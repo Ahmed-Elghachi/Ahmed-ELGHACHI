@@ -65,8 +65,10 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ---
 ## 🚀 Projects
 
-| 🚀 Project | 📄 Description | 🛠️ Skills | 🔗 Link |
+## 🚀 Projects
+
+|  Project |  Description |  Skills |  Link |
 |-----------|--------------|-----------|--------|
 | ☁️ AWS Academy Cloud Foundations | AWS training badge validating foundational knowledge of cloud computing, AWS core services, architecture, pricing, and support. | Cloud Computing • AWS • IAM • EC2 • S3 • VPC • Cloud Security • Networking • Monitoring • Cost Management | [View Repository](https://github.com/Ahmed-Elghachi/AWS-Academy-Cloud-Foundations) |
-
+| 🛡️ AWS Academy Cloud Security Foundations | Hands-on training focused on AWS cloud security, including identity and access management, data protection, network security, and monitoring best practices. | AWS Security • IAM • KMS • CloudTrail • CloudWatch • VPC Security • Encryption • Threat Detection | [View Repository](https://github.com/Ahmed-Elghachi/AWS-Cloud-Security-Foundations) |
 ---
