@@ -63,7 +63,6 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
 
 ---
-## 🚀 Projects
 
 ## 🚀 Projects
 
