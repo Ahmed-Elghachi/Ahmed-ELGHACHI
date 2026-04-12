@@ -10,13 +10,19 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ## 📜 Certifications
 
 <p align="center">
-  <img src="badges/AWS.png" width="120"/>
-    <img src="badges/redhatfund.png" width="100"/>
+  <img src="badges/AWS.png" width="85"/>
+  <img src="badges/Ethical_Hacker.png" width="85"/>
+  <img src="badges/CCNAITN__1_.png" width="85"/>
+  <img src="badges/CCNASRWE__1_.png" width="85"/>
+  <img src="badges/CCNAENSA__1_.png" width="85"/>
+  <img src="badges/redhatfund.png" width="100"/>
   <img src="badges/redhatadII.png" width="100"/>
-  <img src="badges/Ethical_Hacker.png" width="100"/>
-  <img src="badges/CCNAITN__1_.png" width="100"/>
-  <img src="badges/CCNASRWE__1_.png" width="100"/>
-  <img src="badges/CCNAENSA__1_.png" width="100"/>
+</p>
+
+<p align="center">
+  🔗 <a href="https://www.credly.com/users/ahmed-elghachi" target="_blank">
+    View My Certifications on Credly
+  </a>
 </p>
 
 ---
