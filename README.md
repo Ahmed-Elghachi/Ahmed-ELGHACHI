@@ -39,3 +39,8 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
   </a>
 </p>
 ---
+## ⚒️ Skills
+
+Burp Suite • Wireshark • Metasploit • Wazuh • Suricata • ModSecurity • Linux • Kali Linux • RedHat • Windows • Ubuntu • AWS • Python • PowerShell • Bash • HackTheBox
+
+---
