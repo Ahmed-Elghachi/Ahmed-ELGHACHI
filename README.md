@@ -67,6 +67,6 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 | 🚀 Project | 📄 Description | 🛠️ Skills | 🔗 Link |
 |-----------|--------------|-----------|--------|
-| ☁️ AWS Cloud Security Journey | Hands-on AWS labs focused on cloud security, IAM, VPC configuration, and misconfiguration detection | AWS, IAM, VPC, Cloud Security | [View Repository](https://github.com/YOUR_USERNAME/aws-cloud-security-journey) |
+| ☁️ AWS Academy Cloud Foundations | Hands-on AWS training covering IAM, EC2, S3, VPC, and cloud security fundamentals with focus on best practices and scalable architectures. | Cloud Computing • AWS • IAM • EC2 • S3 • VPC • Cloud Security • Networking • Monitoring • Cost Management | [View Repository](https://github.com/Ahmed-Elghachi/AWS-Academy-Cloud-Foundations) |
 
 ---
