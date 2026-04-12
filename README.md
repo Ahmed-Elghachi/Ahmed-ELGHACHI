@@ -13,19 +13,19 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 <p align="center">
 
   <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">
-    <img src="https://images.credly.com/size/160x160/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="90"/>
+    <img src="https://images.credly.com/size/160x160/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100"/>
   </a>
   
   <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">
-    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
+    <img src="https://images.credly.com/images/d52a2d84-70d9-4613-82a4-b6dfe1d5a06c/blob" width="90"/>
   </a>
 
   <a href="https://www.credly.com/earner/earned/badge/0da38a61-7275-4d61-bbac-0f8996f76a12">
-    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
+    <img src="https://images.credly.com/size/160x160/images/95cf22a9-209f-4832-b5d8-6341cfd7f20d/blob" width="90"/>
   </a>
   
   <a href="https://www.credly.com/earner/earned/badge/91617142-3d20-4ed2-bdef-3ab2d7f51349">
-    <img src="https://images.credly.com/size/340x340/images/1d7e4f4a-7b61-4c1e-9c2f-0c6a8d4f7e5f/image.png" width="90"/>
+    <img src="https://images.credly.com/size/160x160/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90"/>
   </a>
 
   <a href="https://www.credly.com/earner/earned/badge/77596030-b0dd-42dd-984e-5f12d6354cc8">
