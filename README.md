@@ -11,32 +11,33 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ## 📜 Certifications
 
 <p align="center">
+
   <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">
-    <img src="badges/AWS.png" width="90"/>
+    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
   </a>
   
-   <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">
-    <img src="badges/redhatfund.png" width="85"/>
+  <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">
+    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
   </a>
 
-   <a href="https://www.credly.com/earner/earned/badge/0da38a61-7275-4d61-bbac-0f8996f76a12">
-    <img src="badges/redhatadII.png" width="85"/>
+  <a href="https://www.credly.com/earner/earned/badge/0da38a61-7275-4d61-bbac-0f8996f76a12">
+    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
   </a>
   
   <a href="https://www.credly.com/earner/earned/badge/91617142-3d20-4ed2-bdef-3ab2d7f51349">
-    <img src="badges/Ethical_Hacker.png" width="85"/>
+    <img src="https://images.credly.com/size/340x340/images/1d7e4f4a-7b61-4c1e-9c2f-0c6a8d4f7e5f/image.png" width="90"/>
   </a>
 
   <a href="https://www.credly.com/earner/earned/badge/77596030-b0dd-42dd-984e-5f12d6354cc8">
-    <img src="badges/CCNAITN__1_.png" width="85"/>
+    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
   </a>
 
   <a href="https://www.credly.com/earner/earned/badge/3a87ed90-4569-415c-8fe7-cda8be567516">
-    <img src="badges/CCNASRWE__1_.png" width="85"/>
+    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
   </a>
 
   <a href="https://www.credly.com/earner/earned/badge/63f1045b-ce05-4cfa-921a-200a08d6c14a">
-    <img src="badges/CCNAENSA__1_.png" width="85"/>
+    <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="90"/>
   </a>
 
 </p>
