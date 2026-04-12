@@ -20,8 +20,9 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 </p>
 
 <p align="center">
-  🔗 <a href="https://www.credly.com/users/ahmed-elghachi" target="_blank">
-    View My Certifications on Credly
+  <a href="https://www.credly.com/users/ahmed-elghachi" 
+     style="border:2px solid #1F6FEB; padding:10px 20px; border-radius:10px; text-decoration:none; color:#1F6FEB; font-weight:bold;">
+    🏅 View My Certifications on Credly
   </a>
 </p>
 
