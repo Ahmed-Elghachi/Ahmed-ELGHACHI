@@ -10,20 +10,21 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ## 📜 Certifications
 
 <p align="center">
-  <img src="badges/AWS.png" width="120"/>
-    <img src="badges/redhatfund.png" width="100"/>
-  <img src="badges/redhatadII.png" width="100"/>
-  <img src="badges/Ethical_Hacker.png" width="100"/>
-  <img src="badges/CCNAITN__1_.png" width="100"/>
-  <img src="badges/CCNASRWE__1_.png" width="100"/>
-  <img src="badges/CCNAENSA__1_.png" width="100"/>
-</p>
 
-<p align="center">
-  <a href="https://www.credly.com/users/ahmed-elghachi"
-     style="border:2px solid #1F6FEB; padding:8px 16px; border-radius:8px; color:#1F6FEB;">
-    🏅 View My Certifications on Credly
-  </a>
+🏅 <a href="https://www.credly.com/earner/earned/badge/91617142-3d20-4ed2-bdef-3ab2d7f51349">Ethical Hacker – Cisco</a><br><br>
+
+🏅 <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">AWS Academy Cloud Foundations</a><br><br>
+
+🏅 <a href="https://www.credly.com/earner/earned/badge/77596030-b0dd-42dd-984e-5f12d6354cc8">Certification 3</a><br><br>
+
+🏅 <a href="https://www.credly.com/earner/earned/badge/3a87ed90-4569-415c-8fe7-cda8be567516">Certification 4</a><br><br>
+
+🏅 <a href="https://www.credly.com/earner/earned/badge/63f1045b-ce05-4cfa-921a-200a08d6c14a">Certification 5</a><br><br>
+
+🏅 <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">Certification 6</a><br><br>
+
+🏅 <a href="https://www.credly.com/earner/earned/badge/0da38a61-7275-4d61-bbac-0f8996f76a12">Certification 7</a>
+
 </p>
 
 ---
