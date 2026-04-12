@@ -10,6 +10,7 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ## 📜 Certifications
 
 <p align="center">
+  <imr src ="badges/AWS.png"/>
   <a href="https://www.credly.com/earner/earned/badge/91617142-3d20-4ed2-bdef-3ab2d7f51349">
     <img src="https://images.credly.com/size/340x340/images/1d7e4f4a-7b61-4c1e-9c2f-0c6a8d4f7e5f/image.png" width="90"/>
   </a>
