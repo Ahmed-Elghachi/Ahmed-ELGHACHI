@@ -9,7 +9,15 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ---
 ## 📜 Certifications
 
- <img src ="badges/AWS.png"/> <img src ="badges/Ethical_Hacker.png"/> <img src ="badges/CCNAITN__1_.png"/> <img src ="badges/CCNASRWE__1_.png"/> <img src ="badges/CCNAENSA__1_.png"/> <img src ="badges/redhatfund.png"/> <img src ="badges/redhatadII.png"/>
+<p align="center">
+  <img src="badges/AWS.png" width="90"/>
+  <img src="badges/Ethical_Hacker.png" width="90"/>
+  <img src="badges/CCNAITN__1_.png" width="90"/>
+  <img src="badges/CCNASRWE__1_.png" width="90"/>
+  <img src="badges/CCNAENSA__1_.png" width="90"/>
+  <img src="badges/redhatfund.png" width="110"/>
+  <img src="badges/redhatadII.png" width="110"/>
+</p>
 
 ---
 
