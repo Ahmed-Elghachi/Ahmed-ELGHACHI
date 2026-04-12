@@ -11,12 +11,12 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ## 📜 Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">
+    <img src="badges/AWS.png" width="130"/>
+  </a>
+  
   <a href="https://www.credly.com/earner/earned/badge/91617142-3d20-4ed2-bdef-3ab2d7f51349">
     <img src="badges/Ethical_Hacker.png" width="85"/>
-  </a>
-
-  <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">
-    <img src="badges/AWS.png" width="85"/>
   </a>
 
   <a href="https://www.credly.com/earner/earned/badge/77596030-b0dd-42dd-984e-5f12d6354cc8">
