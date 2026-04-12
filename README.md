@@ -43,6 +43,23 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 ## ⚒️ Skills
 
-Burp Suite • Wireshark • Metasploit • Wazuh • Suricata • ModSecurity • Linux • Kali Linux • RedHat • Windows • Ubuntu • AWS • Python • PowerShell • Bash • HackTheBox
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-purple?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-red?style=for-the-badge)
+![ModSecurity](https://img.shields.io/badge/ModSecurity-green?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
+![RedHat](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=redhat)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![HTB](https://img.shields.io/badge/HackTheBox-green?style=for-the-badge)
 
 ---
