@@ -43,8 +43,6 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 ## ⚒️ Skills
 
-## ⚒️ Skills
-
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
@@ -63,4 +61,12 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+
+---
+## 🚀 Projects
+
+| 🚀 Project | 📄 Description | 🛠️ Skills | 🔗 Link |
+|-----------|--------------|-----------|--------|
+| ☁️ AWS Cloud Security Journey | Hands-on AWS labs focused on cloud security, IAM, VPC configuration, and misconfiguration detection | AWS, IAM, VPC, Cloud Security | [View Repository](https://github.com/YOUR_USERNAME/aws-cloud-security-journey) |
+
 ---
