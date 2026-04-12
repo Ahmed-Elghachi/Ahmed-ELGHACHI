@@ -63,6 +63,4 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
-![HTB](https://img.shields.io/badge/HackTheBox-green?style=for-the-badge)
-
 ---
