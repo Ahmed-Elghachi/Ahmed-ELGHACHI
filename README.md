@@ -11,8 +11,8 @@ Cybersecurity Master's student specializing in Cyber Defense and Information Sys
 
 <p align="center">
   <img src="badges/AWS.png" width="110"/>
-    <img src="badges/redhatfund.png" width="110"/>
-  <img src="badges/redhatadII.png" width="110"/>
+    <img src="badges/redhatfund.png" width="100"/>
+  <img src="badges/redhatadII.png" width="100"/>
   <img src="badges/Ethical_Hacker.png" width="90"/>
   <img src="badges/CCNAITN__1_.png" width="90"/>
   <img src="badges/CCNASRWE__1_.png" width="90"/>
