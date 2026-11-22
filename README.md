@@ -1,81 +1,143 @@
-# 👋 Hi, I'm Ahmed ELGHACHI
+<h1 align="center">👋 Hi, I'm Ahmed ELGHACHI</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=28&center=true&vCenter=true&width=700&lines=Ahmed+Elghachi;Cybersecurity+Master+Student;Blue+Team+%7C+SOC+Analyst;Threat+Detection+%26+Incident+Response;AWS+Cloud+Security;Network+Administration)
----
-## 🛡️ About Me
-
-Cybersecurity Master's student specializing in Cyber Defense and Information Systems, focused on Blue Team operations including threat detection, log analysis, and incident response. Hands-on experience with SOC environments, working with tools like Wazuh for monitoring and security event analysis. Skilled in SOC operations with AWS-based projects, including threat detection, log analysis, and incident response, as well as cloud security (AWS), network administration, and system hardening. Passionate about building practical security solutions, performing vulnerability assessments, and improving defensive security strategies.
-
-
----
-## 📜 Certifications
+<h3 align="center">Cybersecurity | SOC Analyst | Blue Team | Cloud Security</h3>
 
 <p align="center">
-
-  <a href="https://www.credly.com/earner/earned/badge/474ec7d3-036b-4770-ab34-af50efeb7e7e">
-    <img src="https://images.credly.com/size/160x160/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100"/>
-  </a>
-  
-  
-  <a href="https://www.credly.com/earner/earned/badge/35b83fdb-1bbf-439c-a52e-ea84b9f333d9">
-    <img src="https://images.credly.com/images/d52a2d84-70d9-4613-82a4-b6dfe1d5a06c/blob" width="90"/>
-  </a>
-  
-
-  <a href="https://www.credly.com/earner/earned/badge/0da38a61-7275-4d61-bbac-0f8996f76a12">
-    <img src="https://images.credly.com/size/160x160/images/95cf22a9-209f-4832-b5d8-6341cfd7f20d/blob" width="90"/>
-  </a>
-  
-  
-  <a href="https://www.credly.com/earner/earned/badge/91617142-3d20-4ed2-bdef-3ab2d7f51349">
-    <img src="https://images.credly.com/size/160x160/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90"/>
-  </a>
-  
-
-  <a href="https://www.credly.com/earner/earned/badge/77596030-b0dd-42dd-984e-5f12d6354cc8">
-    <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="90"/>
-  </a>
-
-  <a href="https://www.credly.com/earner/earned/badge/3a87ed90-4569-415c-8fe7-cda8be567516">
-    <img src="https://images.credly.com/size/160x160/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="90"/>
-  </a>
-  
-
-  <a href="https://www.credly.com/earner/earned/badge/63f1045b-ce05-4cfa-921a-200a08d6c14a">
-    <img src="https://images.credly.com/size/160x160/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="90"/>
-  </a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Cyber+Defense+Enthusiast;SOC+%26+Blue+Team+Operations;Threat+Detection+%7C+Log+Analysis;AWS+Cloud+Security;Security+Monitoring+%26+Incident+Response" alt="Typing SVG"/>
 </p>
 
 ---
 
-## ⚒️ Skills
+## 🛡️ About Me
 
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
-![Wazuh](https://img.shields.io/badge/Wazuh-purple?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
-![RedHat](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=redhat)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![IAM](https://img.shields.io/badge/AWS%20IAM-yellow?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker%20Desktop-blue?style=for-the-badge&logo=docker)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-orange?style=for-the-badge&logo=virtualbox)
-![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+Cybersecurity professional with a Master's degree in Cybersecurity, specializing in Cyber Defense and Information Systems.
+
+Focused on defensive security operations, Security Operations Center (SOC) environments, threat detection, security event analysis, and incident response.
+
+Hands-on experience building practical security laboratories using technologies such as Wazuh, Suricata, and Sysmon for centralized security monitoring and network intrusion detection.
+
+Interested in:
+
+- 🔍 SOC Operations & Threat Detection
+- 🛡️ Blue Team & Defensive Security
+- 📊 SIEM & Security Event Analysis
+- 🚨 Incident Detection & Response
+- ☁️ AWS Cloud Security
+- 🌐 Network Security & Administration
+- 🔐 System Hardening & Vulnerability Assessment
 
 ---
 
-## 🚀 Projects
+## 📜 Certifications & Badges
 
-|  Project |  Description |  Skills |  Link |
-|-----------|--------------|-----------|--------|
-| ☁️ AWS Academy Cloud Foundations | AWS training badge validating foundational knowledge of cloud computing, AWS core services, architecture, pricing, and support. | Cloud Computing • AWS • IAM • EC2 • S3 • VPC • Cloud Security • Networking • Monitoring • Cost Management | [View Repository](https://github.com/Ahmed-Elghachi/AWS-Academy-Cloud-Foundations) |
-| 🛡️ AWS Academy Cloud Security Foundations | Hands-on training focused on AWS cloud security, including identity and access management, data protection, network security, and monitoring best practices. | AWS Security • IAM • KMS • CloudTrail • CloudWatch • VPC Security • Encryption • Threat Detection | [View Repository](https://github.com/Ahmed-Elghachi/AWS-Cloud-Security-Foundations) |
+<p align="center">
+  <a href="https://www.credly.com/users/ahmed-elghachi">
+    <img src="https://img.shields.io/badge/Cisco-CCNA%20Certifications-blue?style=for-the-badge&logo=cisco"/>
+  </a>
+  <a href="https://www.credly.com/users/ahmed-elghachi">
+    <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-blue?style=for-the-badge&logo=cisco"/>
+  </a>
+  <a href="https://www.credly.com/users/ahmed-elghachi">
+    <img src="https://img.shields.io/badge/Red%20Hat-RH134-red?style=for-the-badge&logo=redhat"/>
+  </a>
+  <a href="https://www.credly.com/users/ahmed-elghachi">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-orange?style=for-the-badge&logo=amazonaws"/>
+  </a>
+</p>
+
+**Additional training:**
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing, and Wireless Essentials
+- CCNA: Enterprise Networking, Security, and Automation
+- Linux Unhatched
+- AWS Academy Cloud Foundations
+
+🏅 [View All My Certifications on Credly](https://www.credly.com/users/ahmed-elghachi)
+
 ---
+
+## ⚒️ Technical Skills
+
+### 🔐 Cybersecurity & Security Monitoring
+
+<p>
+<img src="https://img.shields.io/badge/Wazuh-5B3A8C?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+</p>
+
+### 💻 Operating Systems
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Virtualization
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+</p>
+
+### ⚙️ Programming & Administration
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🛡️ SOC Monitoring Platform | Centralized security monitoring laboratory integrating Wazuh SIEM, Suricata IDS, Sysmon, and Windows/Linux endpoints. | Wazuh, Suricata, Sysmon, Linux, Windows |
+| 🔐 DevSecOps – SAST & DAST | Security testing integration into a CI/CD pipeline using automated source-code and dynamic application analysis. | Docker, GitHub Actions, SonarQube, Semgrep, OWASP ZAP |
+| ☁️ AWS Academy Cloud Foundations | Practical AWS training covering cloud infrastructure, networking, IAM, EC2, S3, and VPC. | AWS, IAM, EC2, S3, VPC |
+| 🔒 AWS Academy Cloud Security Foundations | Cloud security training focused on identity management, data protection, network security, and monitoring. | AWS, IAM, KMS, CloudTrail, CloudWatch |
+
+### 📂 Project Repositories
+
+- [SOC-Wazuh-Suricata-Lab](https://github.com/Ahmed-Elghachi/SOC-Wazuh-Suricata-Lab)
+- [DevSecOps – Juice Shop](https://github.com/Ahmed-Elghachi/juice-shop)
+- [AWS Academy Cloud Foundations](https://github.com/Ahmed-Elghachi/AWS-Academy-Cloud-Foundations)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elghachi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elghachi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.credly.com/users/ahmed-elghachi">
+    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly"/>
+  </a>
+  <a href="mailto:ahmedelghachi.98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building practical cybersecurity skills through continuous learning and defensive security engineering."</i>
+</p>
